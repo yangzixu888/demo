@@ -29,4 +29,3 @@ else
     tail -n 50 /root/jenkins-test/demo-app.log
     exit 1
 fi
-EOF
